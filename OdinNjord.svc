@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="WcfOdinNjord.Service1" CodeBehind="OdinNjord.svc.vb" %>
